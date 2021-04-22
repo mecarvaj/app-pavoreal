@@ -1,0 +1,8 @@
+{
+  "name": "App Pavoreal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "86024ff7"
+}
