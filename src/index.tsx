@@ -19,5 +19,10 @@ serviceWorkerRegistration.unregister();
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-// This change will be recorded be github
+// Adding new shit to my local t oexport it later to my repository
+// Steps to follow:
+//  1- git add .
+//  2- git commit -m 'shit'
+//  3- git push
+// This change will be recorded by github
 reportWebVitals();
