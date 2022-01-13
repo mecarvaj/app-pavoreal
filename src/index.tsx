@@ -15,8 +15,10 @@ ReactDOM.render(
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://cra.link/PWA
 serviceWorkerRegistration.unregister();
-// Missing this tittle
+// Steps to commit a change
 //  1- git add .
 //  2- git commit -m 'shit'
-//  3- git push
+//  3- git push //git push --set-upstream origin brainch (if first time of the branch)
+//  4 - create a pull request  (master left - new right)
+//  5- Finish that shtttttt
 reportWebVitals();
