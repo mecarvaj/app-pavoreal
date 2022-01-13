@@ -24,5 +24,4 @@ serviceWorkerRegistration.unregister();
 //  1- git add .
 //  2- git commit -m 'shit'
 //  3- git push
-// This change will be recorded by github
 reportWebVitals();
